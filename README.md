@@ -1,12 +1,13 @@
-![Status](https://github.com/pscedu/singularity-img2ascii/actions/workflows/main.yml/badge.svg)
-![Status](https://github.com/pscedu/singularity-img2ascii/actions/workflows/pretty.yml/badge.svg)
-![Issue](https://img.shields.io/github/issues/pscedu/singularity-img2ascii)
-![forks](https://img.shields.io/github/forks/pscedu/singularity-img2ascii)
-![Stars](https://img.shields.io/github/stars/pscedu/singularity-img2ascii)
-![License](https://img.shields.io/github/license/pscedu/singularity-img2ascii)
+![Status](https://github.com/icaoberg/singularity-img2ascii/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/icaoberg/singularity-img2ascii/actions/workflows/pretty.yml/badge.svg)
+![Issue](https://img.shields.io/github/issues/icaoberg/singularity-img2ascii)
+![forks](https://img.shields.io/github/forks/icaoberg/singularity-img2ascii)
+![Stars](https://img.shields.io/github/stars/icaoberg/singularity-img2ascii)
+![License](https://img.shields.io/github/license/icaoberg/singularity-img2ascii)
 
 # singularity-img2ascii
-Singularity recipe for [img2ascii](https://github.com/aristocratos/img2ascii).
+![](https://github.com/JosefVesely/img2ascii/raw/main/img2ascii.png)https://github.com/JosefVesely/img2ascii/raw/main/img2ascii.png
+Singularity recipe for [img2ascii](https://github.com/JosefVesely/img2ascii).
 
 ## Installing the container on Bridges 2
 Copy the
