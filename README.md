@@ -7,6 +7,7 @@
 
 # singularity-img2ascii
 ![](https://github.com/JosefVesely/img2ascii/raw/main/img2ascii.png)
+
 Singularity recipe for [img2ascii](https://github.com/JosefVesely/img2ascii).
 
 ## Installing the container on Bridges 2
