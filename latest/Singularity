@@ -1,0 +1,21 @@
+Bootstrap: docker
+From: ubuntu:22.04
+
+%labels
+    MAINTAINER icaoberg
+    EMAIL icaoberg@psc.edu
+    SUPPORT help@psc.edu
+    REPOSITORY https://github.com/icaoberg/singularity-img2ascii
+    COPYRIGHT Copyright © 2024 Pittsburgh Supercomputing Center. All Rights Reserved.
+    VERSION latest
+
+%post
+    apt update
+    apt-get install -y gcc coreutils git make
+    cd /opt/
+    git clone https://github.com/JosefVesely/img2ascii
+    cd img2ascii
+    make
+
+%runscript
+    /opt/img2ascii/img2ascii "$@"
