@@ -40,6 +40,20 @@ To run the available tests, run the command
 
 ```
 bash ./test.sh
+
+  `"""^^`^^"""""`.`''``.      ";:`      `:I;"'
+  [ZmmJvxYcmmmZO_^-YCxvY)^  `|vrUc`   lfznncCJ~
+  "LWMdLYmQ####X` `0o<;z#f  |ml.Ix"  ?qz!`'^>C}
+   <bMdLXmLoooml  'Lhl IkZ^.JZ^  I' id0"     >~
+    |#pUvQXaak[   'Lh! "wQ' uMr^    nM(      '`
+    `U*QXYXOan'   'Lhl ~b1  <bMUl  ^O#_
+     idMUzUvC;    'Lh<~u('   ?pWm> "w*+
+      1#OLQc+     'Lh>I,      iLMC``0M{
+      `zOLQ1      'Lh!     .'  :0ai rWY'      .
+       lvQj;      'La!     :_   /ai lq*)     ,>
+        >JI       `O*<     lX;."YU`  +majl``;r?
+        '<'      '_J0|I.   ,YJxvn;    ;\LQYXCU;
+                 .^``^`     `;l:.       `:ll;`
 ```
 
 ---
